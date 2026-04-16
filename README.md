@@ -12,10 +12,10 @@ This project performs an analysis of an online retail dataset using PySpark and 
 ## Visualizations
 Here are the visualizations generated from our analysis:
 
-![Visualization 1](file:///c:/Users/rishi/OneDrive/Desktop/Analytics/Retail-Data-Analysis-and-Visualization/2026-04-16.png)
+![Visualization 1](2026-04-16.png)
 
-![Visualization 2](file:///c:/Users/rishi/OneDrive/Desktop/Analytics/Retail-Data-Analysis-and-Visualization/2026-04-16%20(1).png)
+![Visualization 2](2026-04-16%20(1).png)
 
-![Visualization 3](file:///c:/Users/rishi/OneDrive/Desktop/Analytics/Retail-Data-Analysis-and-Visualization/2026-04-16%20(2).png)
+![Visualization 3](2026-04-16%20(2).png)
 
-![Visualization 4](file:///c:/Users/rishi/OneDrive/Desktop/Analytics/Retail-Data-Analysis-and-Visualization/2026-04-16%20(3).png)
+![Visualization 4](2026-04-16%20(3).png)
